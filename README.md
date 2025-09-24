@@ -1,1 +1,1 @@
-"# backup_e_restore_script_powershell_SQLSERVER" 
+O script deste repositório, combinado com o Agendador de Tarefas do Windows, pode se tornar uma ferramenta poderosa quando utilizado de forma integrada. Ele foi desenvolvido com o objetivo de automatizar o backup e o restore de bancos de dados SQL Server, aproveitando o Agendador de Tarefas para execução programada.
